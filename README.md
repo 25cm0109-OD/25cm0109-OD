@@ -44,8 +44,8 @@ Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 ---
 
 ## 📊 GitHub Stats
-![Ichiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical)
+![Ichiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=25cm0109-OD&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=25cm0109-OD&layout=compact&theme=radical)
 
 ---
 
