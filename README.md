@@ -34,12 +34,12 @@
 指パッチンでカメラ起動、ジェスチャーでショートカットやGitCOMMIT＆PUSHを実行する、Macのメニューバー常駐アプリ。
 - **Role**: UI実装 / GitHub Issuesによるタスク管理
 - **Stack**: Swift (SwiftUI), GitHub Issues
-- **Insight**: チーム開発において、Issueを活用して進捗を可視化し、開発のボトルネックを早期に解消する運用を実践しました。
+- **Insight**: AIを搭載したジェスチャーショートカットソフト、5人チームでGitHubIssueによるタスク管理をして開発
 
 ### 🍎 GourmeSearch
 Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 - **Stack**: SwiftUI, URLSession
-- **Insight**: MVアーキテクチャを意識し、拡張性の高いコード設計に注力。APIからのデータ取得とUIへの反映をシームレスに行う実装を経験しました。
+- **Insight**: MVアーキテクチャを使用したホットペッパーグルメサーチAPIを叩いて位置を表示するマップアプリを制作
 
 
 ---
