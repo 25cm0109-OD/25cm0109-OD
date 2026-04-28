@@ -41,11 +41,6 @@ Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 - **Stack**: SwiftUI, URLSession
 - **Insight**: MVアーキテクチャを意識し、拡張性の高いコード設計に注力。APIからのデータ取得とUIへの反映をシームレスに行う実装を経験しました。
 
----
-
-## 📊 GitHub Stats
-![Ichiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=25cm0109-OD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=25cm0109-OD&layout=compact&theme=radical)
 
 ---
 
