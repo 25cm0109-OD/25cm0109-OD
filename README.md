@@ -36,7 +36,7 @@
 - **Stack**: Swift (SwiftUI), GitHub Issues
 - **Insight**: AIを搭載したジェスチャーショートカットソフト、5人チームでGitHubIssueによるタスク管理をして開発
 
-### 🍎 GourmeSearch
+### 🍎 [GourmeSearch](https://github.com/25cm0109-OD/Gourmesearch)
 Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 - **Stack**: SwiftUI, URLSession
 - **Insight**: MVアーキテクチャを使用したホットペッパーグルメサーチAPIを叩いて位置を表示するマップアプリを制作
