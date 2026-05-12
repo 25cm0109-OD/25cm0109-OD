@@ -45,5 +45,5 @@ Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 ---
 
 ## 📫 Contact
-- **Location**: Ageo, Saitama / Shinjuku, Tokyo
+- **Location**: Shinjuku, Tokyo
 - **GitHub**: [https://github.com/25cm0109-OD](https://github.com/25cm0109-OD)
