@@ -1,6 +1,6 @@
 # Hi there, I'm Ichiru Oda 👋
 
-## 🚀 About Me
+## About Me
 - 🎓 **日本電子専門学校 モバイルアプリケーション開発科** 在籍
 - 📱 **Mobile App Developer**: iOS (SwiftUI) および Android (Java) をメインに開発しています。
 - 🛠 **Focus**: これまでチーム開発におけるタスク管理（GitHub Issues）や、Figmaを用いた簡単なUI設計を経験してきました。
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages (Proficient to Learning)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -28,15 +28,15 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🎥 [yt-mac-menu](https://github.com/Progate-Hackathon/yt-mac-menu) (Progate Hackathon)
+### [yt-mac-menu](https://github.com/Progate-Hackathon/yt-mac-menu) (Progate Hackathon)
 指パッチンでカメラ起動、ジェスチャーでショートカットやGitCOMMIT＆PUSHを実行する、Macのメニューバー常駐アプリ。
 - **Role**: UI実装 / GitHub Issuesによるタスク管理
 - **Stack**: Swift (SwiftUI), GitHub Issues
 - **Insight**: AIを搭載したジェスチャーショートカットソフト、5人チームでGitHubIssueによるタスク管理をして開発
 
-### 🍎 [GourmeSearch](https://github.com/25cm0109-OD/Gourmesearch)
+### [GourmeSearch](https://github.com/25cm0109-OD/Gourmesearch)
 Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 - **Stack**: SwiftUI, URLSession
 - **Insight**: MVアーキテクチャを使用したホットペッパーグルメサーチAPIを叩いて位置を表示するマップアプリを制作
