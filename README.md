@@ -1,10 +1,10 @@
-# Hi there, I'm Ichiru Oda 👋
+# Hi there, I'm Ichiru Oda
 
 ## About Me
-- 🎓 **日本電子専門学校 モバイルアプリケーション開発科** 在籍
-- 📱 **Mobile App Developer**: iOS (SwiftUI) および Android (Java) をメインに開発しています。
-- 🛠 **Focus**: これまでチーム開発におけるタスク管理（GitHub Issues）や、Figmaを用いた簡単なUI設計を経験してきました。
-- 📝 **Certification**: 2026年7月末までに Java Silver の取得を目標に学習を継続中です。
+- **日本電子専門学校 モバイルアプリケーション開発科** 在籍
+- **Mobile App Developer**: iOS (SwiftUI) および Android (Java) をメインに開発しています。
+- **Focus**: これまでチーム開発におけるタスク管理（GitHub Issues）や、Figmaを用いた簡単なUI設計を経験してきました。
+- **Certification**: 2026年7月末までに Java Silver の取得を目標に学習を継続中です。
 
 ---
 
@@ -44,7 +44,7 @@ Hot Pepper Gourmet Search APIを活用した、飲食店検索iOSアプリ。
 
 ---
 
-## 📫 Contact
+## Contact
 - **Location**: Shinjuku, Tokyo
 - **GitHub**: [https://github.com/25cm0109-OD](https://github.com/25cm0109-OD)
 
